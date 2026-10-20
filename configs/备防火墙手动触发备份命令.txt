@@ -1,0 +1,3 @@
+system‑view
+hrp switch standby
+quit
